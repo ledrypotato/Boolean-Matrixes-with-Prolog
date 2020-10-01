@@ -1,3 +1,4 @@
-# CryptoMatrix
-# Matt TAYLOR / Yoann SOCHAJ
+# Cryptography w/ Matrix's
+
+Matt TAYLOR / Yoann SOCHAJ
 Projet L2 Informatique
